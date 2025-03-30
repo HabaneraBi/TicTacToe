@@ -3,7 +3,6 @@ let step = true;
 let reset = document.getElementsByClassName("res")[0];
 let but_val = [];
 let p = document.getElementById("p");
-// buttons[0].disabled = true;
 
 function addSound() {
   const arr = [
